@@ -17,6 +17,14 @@
 | Door slamming | Source from freesound | “Door Slam - No Reverb” by adriann (https://freesound.org/people/adriann/sounds/440261/), licensed under CC0 1.0. 
 | Jumping down from a fence | Source from freesound | “Jump landing” by Shamewap (https://freesound.org/people/Shamewap/sounds/389678/), licensed under CC0 1.0. 
 | Door locking | Source from freesound | “locking a door_01” by Dymewiz (https://freesound.org/people/Dymewiz/sounds/131024/), licensed under CC BY 3.0.  
-| Starting a video recording | Source from freesound | “Recording Start” by AbdrTar (https://freesound.org/people/AbdrTar/sounds/519985/), licensed under CC0 1.0.  
+| Starting a video recording | Source from freesound | “Recording Start” by AbdrTar (https://freesound.org/people/AbdrTar/sounds/519985/), licensed under CC0 1.0.  |
+| Object falling | Source from freesound | “Thrown Object” by Bexhillcollege (https://freesound.org/people/Bexhillcollege/sounds/272065/), licensed under CC0 1.0. |
+| Suspenseful music | Source from freesound | ScaryViolins.ogg by lennyboy (https://freesound.org/people/lennyboy/sounds/244417/), licensed under CC0 1.0. |
+| Dropping phone | Source from freesound | “Dropping phone on tiles” by btherad2000 (https://freesound.org/people/btherad2000/sounds/328041/), licensed under CC BY 3.0.
+| Creepy clown laugh | Source from freesound | “clown laugh” by scotcampbell (https://freesound.org/people/scotcampbell/sounds/263708/), licensed under CC0 1.0. 
+ |
+| Clown horn | Source from freesound | “Day_Clown_Horn” by JonathanTremblay (https://freesound.org/people/JonathanTremblay/sounds/253400/), licensed under CC BY 3.0. |
+| Creepy laugh | Source from freesound | “Creepy Child Giggle with Reverb” by wolfdoctor (https://freesound.org/people/wolfdoctor/sounds/578760/), licensed under CC BY 3.0.  |
+
   
 
