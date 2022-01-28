@@ -22,7 +22,6 @@
 | Suspenseful music | Source from freesound | ScaryViolins.ogg by lennyboy (https://freesound.org/people/lennyboy/sounds/244417/), licensed under CC0 1.0. |
 | Dropping phone | Source from freesound | “Dropping phone on tiles” by btherad2000 (https://freesound.org/people/btherad2000/sounds/328041/), licensed under CC BY 3.0.
 | Creepy clown laugh | Source from freesound | “clown laugh” by scotcampbell (https://freesound.org/people/scotcampbell/sounds/263708/), licensed under CC0 1.0. 
- |
 | Clown horn | Source from freesound | “Day_Clown_Horn” by JonathanTremblay (https://freesound.org/people/JonathanTremblay/sounds/253400/), licensed under CC BY 3.0. |
 | Creepy laugh | Source from freesound | “Creepy Child Giggle with Reverb” by wolfdoctor (https://freesound.org/people/wolfdoctor/sounds/578760/), licensed under CC BY 3.0.  |
 
