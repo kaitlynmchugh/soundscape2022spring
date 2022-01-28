@@ -6,7 +6,7 @@
 | Amusement park train passing by | Source from freesound | “Train” by GagaMan (https://freesound.org/people/GagaMan/sounds/46731/), licensed under CC0 1.0. | 
 | Roller coaster | Source from freesound | “Roller Coaster Screams” by InspectorJ (https://freesound.org/people/InspectorJ/sounds/399376/), licensed under CC BY 3.0. |
 | Carousel music | Source from freesound |“Carousel/Merry-go-round (48/24)” by neilraouf (https://freesound.org/people/neilraouf/sounds/484512/), licensed under CC0 1.0. |
-| Background opening music  | Source from Youtube Audio Library   
+| Background opening music  | Source from Youtube Audio Library | “Voices” by Patrick Patrikios, licensed under YouTube Audio Library License.   
 | Sound of a chainsaw  |Source from freesound | “chainsaw sawing nearby1” by kyles (https://freesound.org/people/kyles/sounds/453252/), licensed under CC0 1.0. | 
 | Scream | Source from freesound | “girl scream frank 5” by visions68 (https://freesound.org/people/visions68/sounds/351334/), licensed under CC BY 3.0. | 
 | Carnival rides/shouting | Source from freesound | “people on carnival rides” by rhonturn (https://freesound.org/people/rhonturn/sounds/181455/), licensed under CC BY-NC 3.0. | 
