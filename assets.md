@@ -24,6 +24,8 @@
 | Creepy clown laugh | Source from freesound | “clown laugh” by scotcampbell (https://freesound.org/people/scotcampbell/sounds/263708/), licensed under CC0 1.0. 
 | Clown horn | Source from freesound | “Day_Clown_Horn” by JonathanTremblay (https://freesound.org/people/JonathanTremblay/sounds/253400/), licensed under CC BY 3.0. |
 | Creepy laugh | Source from freesound | “Creepy Child Giggle with Reverb” by wolfdoctor (https://freesound.org/people/wolfdoctor/sounds/578760/), licensed under CC BY 3.0.  |
+| Closing scare | Source from freesound| "Cringe Scare" by icyjim (https://freesound.org/people/icyjim/sounds/436883/), licensed under CC0 1.0 | 
+| Suspense building | Source from freesound | "reverse-clang2"  by BristolStories (https://freesound.org/people/BristolStories/sounds/65915/), licensed under CC BY-NC 3.0 | 
 
   
 
