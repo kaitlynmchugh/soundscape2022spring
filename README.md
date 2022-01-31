@@ -1,3 +1,16 @@
+# Last Night at Slashfest 
+
+Welcome to Slashfest! 
+*Home of the best food and best scares in the entire continental USA*
+
+At Slashfest, you'll find everything the horror-lovers and thrill-seekers in your life could ever need. When you step into the park, you will be immersed in what can only be described as a Halloween-wonderland. As you wander through the variety of houses we've set up this season, featuring *Asylum of Abandon*, *Nightmare in the Swamp*, and the newly improved and relocated *Funhouse of Terror*, watch out for any escaped inmates, rogue clowns, and chainsaw-wielding maniacs that may be lurking anywhere in the park. If you'd rather chase thrills than ghosts, check out our new steel coaster *Demon Slayer*, or the family favorite *Ghost Gliders*. Don't forget to try some of our famous freshly popped kettle-corn, fried funnel cake, and our locally sourced hot apple cider. Open now until October 31st! 
+
+#
+
+When Erin and Zak arrive at Slashfest, they're seeking something much more exciting than jump scares, coasters, and clown costumes. After hearing rumors of the old funhouse being haunted, they decide to take a paranormal investigation into their own hands. Will they emerge with compelling evidence of the paranormal, or will they join the cast of characters tasked with terrifying the guests of Slashfest, forever?   
+
+# 
+
 # Project 1: Audio Narrative
 
 Your task in this unit is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you: (1) to learn how to capture sound and edit it using digital tools, and (2) to explore the affordances of sound as a medium, with particular attention to its ability to communicate *immersive environment* and *narrative pacing and change*. The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)
