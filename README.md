@@ -11,6 +11,80 @@ When Erin and Zak arrive at Slashfest, they're seeking something much more excit
 
 # 
 
+# Assets Table - Full Citations and Licenses 
+
+| Needs | Solution | Source 
+| ----|----| ---- |
+| Dialogue for main characters/actors | Me, my roommates | Adam Starr and Gabby Etzel give their permission for their voices to be used in this piece |
+| Popcorn popping | Source from freesound | “Popcorn Machine” by kentdavies959 (https://freesound.org/people/kentdavies959/sounds/466661/), licensed under CC BY 3.0. | 
+| Popcorn crunching | Source from freesound | "Eating popcorn" by BiancaBothaPure (https://freesound.org/people/BiancaBothaPure/sounds/365705/), licensed under CC BY-NC 3.0 |
+| Footsteps | Source from freesound | "footsteps-concrete-asphalt" by audioninja001 (https://freesound.org/people/audioninja001/sounds/455056/), licensed under CC0 1.0 |
+| Carnival music in background | Source from freesound | "2011-carnival-merry-go-round" but alienistcog (https://freesound.org/people/alienistcog/sounds/126661/), licensed under CC0 1.0. | 
+| Amusement park train passing by | Source from freesound | “Train” by GagaMan (https://freesound.org/people/GagaMan/sounds/46731/), licensed under CC0 1.0. | 
+| Roller coaster | Source from freesound | “Roller Coaster Screams” by InspectorJ (https://freesound.org/people/InspectorJ/sounds/399376/), licensed under CC BY 3.0. |
+| Sound of a chainsaw  |Source from freesound | “chainsaw sawing nearby1” by kyles (https://freesound.org/people/kyles/sounds/453252/), licensed under CC0 1.0. | 
+| Scream | Source from freesound | “girl scream frank 5” by visions68 (https://freesound.org/people/visions68/sounds/351334/), licensed under CC BY 3.0. | 
+| Carnival rides/shouting | Source from freesound | “people on carnival rides” by rhonturn (https://freesound.org/people/rhonturn/sounds/181455/), licensed under CC BY-NC 3.0. | 
+| Sound of carnival ride | Source from freesound | “people on carnival rides” by rhonturn (https://freesound.org/people/rhonturn/sounds/181455/), licensed under CC BY-NC 3.0. |
+| Music to establish suspense setting in house/walkthrough | Source from freesound | “Coulrophobia (Original)” by Beetlemuse (https://freesound.org/people/Beetlemuse/sounds/588173/), licensed under CC BY 3.0. | 
+| Climbing a fence | Source from freesound | “Chain fence hit_sequence-01.R” by Hupguy (https://freesound.org/people/Hupguy/sounds/138250/), licensed under CC0 1.0. | 
+| Door Creaking/Opening | Source from freesound | “DoorCreak” by 0XMUSEX0 (https://freesound.org/people/0XMUSEX0/sounds/168650/), licensed under CC0 1.0.    
+| Door slamming | Source from freesound | “Door Slam - No Reverb” by adriann (https://freesound.org/people/adriann/sounds/440261/), licensed under CC0 1.0. 
+| Jumping down from a fence | Source from freesound | “Jump landing” by Shamewap (https://freesound.org/people/Shamewap/sounds/389678/), licensed under CC0 1.0. 
+| Door locking | Source from freesound | “locking a door_01” by Dymewiz (https://freesound.org/people/Dymewiz/sounds/131024/), licensed under CC BY 3.0.  
+| Starting a video recording | Source from freesound | “Recording Start” by AbdrTar (https://freesound.org/people/AbdrTar/sounds/519985/), licensed under CC0 1.0.  |
+| Object falling | Source from freesound | “Thrown Object” by Bexhillcollege (https://freesound.org/people/Bexhillcollege/sounds/272065/), licensed under CC0 1.0. |
+| Suspenseful music | Source from freesound | ScaryViolins.ogg by lennyboy (https://freesound.org/people/lennyboy/sounds/244417/), licensed under CC0 1.0. |
+| Dropping phone | Source from freesound | “Dropping phone on tiles” by btherad2000 (https://freesound.org/people/btherad2000/sounds/328041/), licensed under CC BY 3.0.
+| Creepy clown laugh | Source from freesound | “clown laugh” by scotcampbell (https://freesound.org/people/scotcampbell/sounds/263708/), licensed under CC0 1.0. 
+| Clown horn | Source from freesound | “Day_Clown_Horn” by JonathanTremblay (https://freesound.org/people/JonathanTremblay/sounds/253400/), licensed under CC BY 3.0. |
+| Creepy laugh | Source from freesound | “Creepy Child Giggle with Reverb” by wolfdoctor (https://freesound.org/people/wolfdoctor/sounds/578760/), licensed under CC BY 3.0.  |
+| Closing scare | Source from freesound| "Cringe Scare" by icyjim (https://freesound.org/people/icyjim/sounds/436883/), licensed under CC0 1.0 | 
+| Suspense building | Source from freesound | "reverse-clang2"  by BristolStories (https://freesound.org/people/BristolStories/sounds/65915/), licensed under CC BY-NC 3.0 | 
+| Creepy doll actor | Source from freesound | "Girl giggling" by MadamVicious (https://freesound.org/people/MadamVicious/sounds/218185/), licensed under CC0 1.0. | 
+| Creepy doll speaking | Source from freesound | "Ghostly girl" by rainbowdasheve (https://freesound.org/people/rainbowdasheve/sounds/271361/), licensed under CC BY-NC 3.0. | 
+
+# 
+
+# Reflection 
+
+Since this was my first time using Audacity and first time creating an audio narrative, I was conflicted about what theme to use for the narrative. I love anything of the horror genre, whether it's movies, games, or books, but I was skeptical that I could create a narrative that made sense using only sound. However, I still decided to go with the theme of a haunted building inside of a theme park around Halloween. I chose this theme because I have worked as an actor at a haunted house/Halloween attraction, and I think the sounds heard throughout a day in these kinds of places are so unique and interesting, so I thought I could build off of it. 
+
+I think I succeeded in meeting the minimum criteria for this project. All of the dialogue was recorded by me and my roommates, with permission given by the voice actors Adam Starr and Gabby Etzel. The other sounds were sourced from freesound or Youtube Audio Library. A full list of citations and licenses can be found in the assets file, or above in the README file. 
+
+As shown in the screenshot below, I have three layers of sound overlapping multiple times. In the opening, the music and the sound of the crowd provide a foundation for the narrative, while the extra sounds sprinkled on top like the popcorn machine, chainsaws/screams, and roller coasters, define the space as a theme park. 
+![overlay](https://user-images.githubusercontent.com/75503004/152582127-144109ae-3251-42a8-9652-476ef0135a86.PNG)
+
+I also exported the completed narrative as both an Audacity file and mp3 format. 
+
+During the narrative, the story transitions from the characters beginning a hopeful investigation of the supposedly haunted funhouse and ends on a very different, but still open, note. The first big change in the story occurs when they first enter the funhouse and the atmosphere becomes much darker, with the fading out of the music and crowds. Then, Erin loses contact with Zak, and a ghost reveals that he’s gone. The audience is held in suspense until the ghost reveals that Erin is next. Although the narrative is certainly up to interpretation, my personal interpretation and intent was to tell the audience that Erin and Zak have met their end, by the girl that haunts the old funhouse. This story takes place in just over 3 minutes. 
+
+In the narrative, I used a variety of effects to create the intended atmosphere. Since I’ve never used Audacity before, all the effects were new to me. Since this is a horror story, I definitely knew I ran the risk of overdoing it on the effects, so I mostly kept it simple by using the left and right pan features, along with some Fade In/Fade Out for the music and other sounds to keep the transitions smooth. I think the aspect that I had the most fun with was using the left/right pan to create a sense of location. Initially, I used it to show how different sounds were coming from different areas of the park, as well as making them quieter as the characters walked farther from the main park, but my favorite use of these features comes at the end of the story. The door slam occurs to the left, intended to be behind the characters, however; the ghost in the story enters with a giggle and speaks from the right. This is meant to show that whoever is closing the doors, giggling, speaking is very powerful and can basically teleport, or is maybe just very fast. 
+![pan and transitions](https://user-images.githubusercontent.com/75503004/152581913-551caf44-4fd9-4171-a314-01009adb41cd.PNG)
+
+This screenshot also shows my favorite transition in the narrative. I think the slow buildup after the ghost says “Zak’s gone” to finally saying “You’re next” helps to build suspension. I actually almost ended on the “you’re next” because I liked the transition so much and Gabby did such a good job capturing the creepy energy of the whisper I was looking for! Another one of my favorite transitions occurs when the music fades out and the creak of the door starts, to show that the characters are entering the old funhouse. I like that the second soundtrack doesn't begin and there’s a little bit of silence as the characters enter the new area. 
+
+The main piece of advice I took away from the peer review was the idea of changing the music. I decided to switch from a slower/darker song to straight carnival music/background noise. I think this change will help the audience to stay more focused on dialogue and background noises rather than being overwhelmed by the background music, which really just serves to set the scene. 
+
+Peer Review 1: 
+![review 1](https://user-images.githubusercontent.com/75503004/152581700-9ccff01d-4db6-4bd2-aeaa-e3d4868472b4.PNG)
+
+
+The second peer review inspired me to add even more background noises to really make the listeners feel immersed in the theme park. I added footsteps to show that the characters are approaching and continued them during the parts I imagined them walking. I also added crunching of popcorn shortly after we hear the popcorn machine in the background. Finally, I decided to add another “actor” in the park just to see how many sounds I could really add to the background. She is meant to be a creepy doll, who seems innocent enough at first. 
+
+Peer Review 2: 
+![review 2](https://user-images.githubusercontent.com/75503004/152581628-537a725b-1411-4b0e-a0e7-33a1da6ffa08.PNG)
+
+
+I think the most useful piece of advice I found in the articles we read, specifically “6 NPR stories that breathe life into neighborhood scenes” by Alison MacAdam, was to plot a route through the area you’re in. This piece of advice really helped me to create a plot for my narrative, as well as to include all of the sounds I wanted to. If the characters were stationary in the park, I feel like it could have been very chaotic and confusing with differences in volumes/location of all the sounds. 
+
+Finally, I feel like I satisfied the baseline criteria and many of the aspirational criteria. I was honestly surprised at how my project came together, and how it compares to how I initially thought it would sound. I wasn’t sure if I could produce the environment and suspense that I wanted in creating something horror, but I’m happy with the final product. 
+
+Additional citations 
+1. MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” NPR Training + Diverse Sources Database, 30 Oct. 2015, training.npr.org/2015/10/30/six-npr-stories-that-breathe-life-into-neighborhood-scenes.
+
+
+#
 # Project 1: Audio Narrative
 
 Your task in this unit is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you: (1) to learn how to capture sound and edit it using digital tools, and (2) to explore the affordances of sound as a medium, with particular attention to its ability to communicate *immersive environment* and *narrative pacing and change*. The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)
