@@ -4,7 +4,7 @@
 | Popcorn popping | Source from freesound | “Popcorn Machine” by kentdavies959 (https://freesound.org/people/kentdavies959/sounds/466661/), licensed under CC BY 3.0. | 
 | Popcorn crunching | Source from freesound | "Eating popcorn" by BiancaBothaPure (https://freesound.org/people/BiancaBothaPure/sounds/365705/), licensed under CC BY-NC 3.0 |
 | Footsteps | Source from freesound | "footsteps-concrete-asphalt" by audioninja001 (https://freesound.org/people/audioninja001/sounds/455056/), licensed under CC0 1.0 |
-| Carnival music in background | "2011-carnival-merry-go-round" but alienistcog (https://freesound.org/people/alienistcog/sounds/126661/), licensed under CC0 1.0. | 
+| Carnival music in background | Source from freesound | "2011-carnival-merry-go-round" but alienistcog (https://freesound.org/people/alienistcog/sounds/126661/), licensed under CC0 1.0. | 
 | Amusement park train passing by | Source from freesound | “Train” by GagaMan (https://freesound.org/people/GagaMan/sounds/46731/), licensed under CC0 1.0. | 
 | Roller coaster | Source from freesound | “Roller Coaster Screams” by InspectorJ (https://freesound.org/people/InspectorJ/sounds/399376/), licensed under CC BY 3.0. |
 | Sound of a chainsaw  |Source from freesound | “chainsaw sawing nearby1” by kyles (https://freesound.org/people/kyles/sounds/453252/), licensed under CC0 1.0. | 
@@ -26,6 +26,9 @@
 | Creepy laugh | Source from freesound | “Creepy Child Giggle with Reverb” by wolfdoctor (https://freesound.org/people/wolfdoctor/sounds/578760/), licensed under CC BY 3.0.  |
 | Closing scare | Source from freesound| "Cringe Scare" by icyjim (https://freesound.org/people/icyjim/sounds/436883/), licensed under CC0 1.0 | 
 | Suspense building | Source from freesound | "reverse-clang2"  by BristolStories (https://freesound.org/people/BristolStories/sounds/65915/), licensed under CC BY-NC 3.0 | 
+| Creepy doll actor | Source from freesound | "Girl giggling" by MadamVicious (https://freesound.org/people/MadamVicious/sounds/218185/), licensed under CC0 1.0. | 
+| Creepy doll speaking | Source from freesound | "Ghostly girl" by rainbowdasheve (https://freesound.org/people/rainbowdasheve/sounds/271361/), licensed under CC BY-NC 3.0. | 
+
 
   
 
